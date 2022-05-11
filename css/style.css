@@ -1,0 +1,33 @@
+/* Navbar */
+
+#tickets{
+    color: #0FB212;
+}
+
+/* Conferencia */
+
+.bg-default{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.btn-default1{
+  background-color:#0FB212;
+  color:#FFF;
+}
+
+.carousel-caption{
+    position: absolute;
+    margin-left: 35%;
+    margin-bottom: 10% ;
+    width: 40%;
+    text-align: end;
+    
+}
+
+
+/* Postular */
+
+.btn-default2{
+    background-color:#6EE33F;
+    color:#FFF;
+  }
